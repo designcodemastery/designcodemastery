@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martin-ferrero-thompson
+- 👋 Hi, I’m Martin Thompson
 - 👀 I’m interested in website design and software development
 - 🌱 I’m currently learning React, Next JavaScript frameworks as well as refreshing some latent skills of old in C++
 - - 💞️ I’m loving TailwindCSS and No-Code Design tools
